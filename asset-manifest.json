@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.e60da0b2.css",
-    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.87acdc9b.js",
+    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.1a26053e.js",
     "static/media/hero-bg.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/hero-bg.93194b8122f6cac04881.png",
     "static/media/genies-main-img.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/genies-main-img.59d366261c2580c1e56c.png",
     "static/media/genie-card-2.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/genie-card-2.5bf120734a5f6706aa3e.png",
@@ -35,10 +35,10 @@
     "static/media/about-left-bg.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/about-left-bg.be7b3ff4b9d8ba195ec8.png",
     "index.html": "https://mrityunjay38.github.io/Ace-Demo/index.html",
     "main.e60da0b2.css.map": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.e60da0b2.css.map",
-    "main.87acdc9b.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.87acdc9b.js.map"
+    "main.1a26053e.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.1a26053e.js.map"
   },
   "entrypoints": [
     "static/css/main.e60da0b2.css",
-    "static/js/main.87acdc9b.js"
+    "static/js/main.1a26053e.js"
   ]
 }
