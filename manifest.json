@@ -1,0 +1,14 @@
+{
+  "short_name": "Ace Genie",
+  "name": "Ace Genie",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://ace.indegene.com",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
