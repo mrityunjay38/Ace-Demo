@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.101cf732.css",
-    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.3f156791.js",
-    "static/js/928.e856d5c9.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.e856d5c9.chunk.js",
+    "main.css": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css",
+    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.b06ce3de.js",
+    "static/js/928.49375e46.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js",
     "static/js/765.ad543463.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.ad543463.chunk.js",
     "static/js/282.5761425a.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js",
     "static/js/924.0361999b.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/924.0361999b.chunk.js",
@@ -23,6 +23,7 @@
     "static/media/slide3.jpg": "https://mrityunjay38.github.io/Ace-Demo/static/media/slide3.7b0abe47d6e98f457de9.jpg",
     "static/media/slide2.jpg": "https://mrityunjay38.github.io/Ace-Demo/static/media/slide2.398261b5311a14798cd2.jpg",
     "static/media/slide1.jpg": "https://mrityunjay38.github.io/Ace-Demo/static/media/slide1.f3cb19173e28045c5393.jpg",
+    "static/media/nunitosans-regular.ttf": "https://mrityunjay38.github.io/Ace-Demo/static/media/nunitosans-regular.a427ddbe4dc20889d6e0.ttf",
     "static/media/flag-uk.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/flag-uk.e74af0e267a81edfc593.png",
     "static/media/gurpinder-singh.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/gurpinder-singh.a12b53ef1e197a0a2145.png",
     "static/media/sharanjit-singh.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/sharanjit-singh.f3e9ad23099f842d6256.png",
@@ -47,9 +48,9 @@
     "static/media/about-left-bg.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/about-left-bg.be7b3ff4b9d8ba195ec8.png",
     "index.html": "https://mrityunjay38.github.io/Ace-Demo/index.html",
     "static/media/search-icon.svg": "https://mrityunjay38.github.io/Ace-Demo/static/media/search-icon.0bc53f0df9853f825ac9c148d28ea7e6.svg",
-    "main.101cf732.css.map": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.101cf732.css.map",
-    "main.3f156791.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.3f156791.js.map",
-    "928.e856d5c9.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.e856d5c9.chunk.js.map",
+    "main.ee1235d2.css.map": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css.map",
+    "main.b06ce3de.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.b06ce3de.js.map",
+    "928.49375e46.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js.map",
     "765.ad543463.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.ad543463.chunk.js.map",
     "282.5761425a.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js.map",
     "924.0361999b.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/924.0361999b.chunk.js.map",
@@ -63,7 +64,7 @@
     "857.24fc97d9.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/857.24fc97d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.101cf732.css",
-    "static/js/main.3f156791.js"
+    "static/css/main.ee1235d2.css",
+    "static/js/main.b06ce3de.js"
   ]
 }
