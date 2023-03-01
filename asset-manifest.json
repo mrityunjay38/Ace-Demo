@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css",
-    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.b06ce3de.js",
+    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.cd02319a.js",
     "static/js/928.49375e46.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js",
     "static/js/765.ad543463.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.ad543463.chunk.js",
     "static/js/282.5761425a.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js",
     "static/js/924.0361999b.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/924.0361999b.chunk.js",
     "static/js/894.1ccbfd76.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/894.1ccbfd76.chunk.js",
-    "static/js/548.d5b2d99f.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.d5b2d99f.chunk.js",
+    "static/js/548.fb0757d7.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.fb0757d7.chunk.js",
     "static/js/33.bee0d5a7.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/33.bee0d5a7.chunk.js",
     "static/js/492.b29b5d43.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.b29b5d43.chunk.js",
     "static/js/848.dd4ca872.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/848.dd4ca872.chunk.js",
     "static/js/474.cbd6a6f6.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/474.cbd6a6f6.chunk.js",
     "static/js/93.fe5351ef.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/93.fe5351ef.chunk.js",
     "static/js/857.24fc97d9.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/857.24fc97d9.chunk.js",
-    "static/media/slide4.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/slide4.93194b8122f6cac04881.png",
     "static/media/market-intelligence-thumb.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/market-intelligence-thumb.5bf120734a5f6706aa3e.png",
     "static/media/about-left.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/about-left.df784f374faf1421bc63.png",
+    "static/media/slide4.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/slide4.e01756717fc163888b87.png",
     "static/media/newsletter.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/newsletter.e70eac475f4b6f396de9.png",
     "static/media/region-capabilitiy-thumb.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/region-capabilitiy-thumb.56d54a63674874f6e7d5.png",
     "static/media/testimonials-birgit-peters.png": "https://mrityunjay38.github.io/Ace-Demo/static/media/testimonials-birgit-peters.e4142afe5232a4f58cd5.png",
@@ -49,13 +49,13 @@
     "index.html": "https://mrityunjay38.github.io/Ace-Demo/index.html",
     "static/media/search-icon.svg": "https://mrityunjay38.github.io/Ace-Demo/static/media/search-icon.0bc53f0df9853f825ac9c148d28ea7e6.svg",
     "main.ee1235d2.css.map": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css.map",
-    "main.b06ce3de.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.b06ce3de.js.map",
+    "main.cd02319a.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.cd02319a.js.map",
     "928.49375e46.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js.map",
     "765.ad543463.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.ad543463.chunk.js.map",
     "282.5761425a.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js.map",
     "924.0361999b.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/924.0361999b.chunk.js.map",
     "894.1ccbfd76.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/894.1ccbfd76.chunk.js.map",
-    "548.d5b2d99f.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.d5b2d99f.chunk.js.map",
+    "548.fb0757d7.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.fb0757d7.chunk.js.map",
     "33.bee0d5a7.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/33.bee0d5a7.chunk.js.map",
     "492.b29b5d43.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.b29b5d43.chunk.js.map",
     "848.dd4ca872.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/848.dd4ca872.chunk.js.map",
@@ -65,6 +65,6 @@
   },
   "entrypoints": [
     "static/css/main.ee1235d2.css",
-    "static/js/main.b06ce3de.js"
+    "static/js/main.cd02319a.js"
   ]
 }
