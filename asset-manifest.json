@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css",
-    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.60f5cd20.js",
+    "main.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.19de925a.js",
     "static/js/928.49375e46.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js",
     "static/js/765.60c7fed7.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.60c7fed7.chunk.js",
-    "static/js/282.5761425a.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js",
-    "static/js/11.85278003.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/11.85278003.chunk.js",
+    "static/js/282.cdd1ce83.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.cdd1ce83.chunk.js",
+    "static/js/11.19cf3d20.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/11.19cf3d20.chunk.js",
     "static/js/894.1ccbfd76.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/894.1ccbfd76.chunk.js",
     "static/js/548.7ea0f6b9.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.7ea0f6b9.chunk.js",
     "static/js/33.bee0d5a7.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/33.bee0d5a7.chunk.js",
-    "static/js/492.b29b5d43.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.b29b5d43.chunk.js",
+    "static/js/492.6a044b05.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.6a044b05.chunk.js",
     "static/js/848.dd4ca872.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/848.dd4ca872.chunk.js",
     "static/js/474.cbd6a6f6.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/474.cbd6a6f6.chunk.js",
     "static/js/93.fe5351ef.chunk.js": "https://mrityunjay38.github.io/Ace-Demo/static/js/93.fe5351ef.chunk.js",
@@ -51,15 +51,15 @@
     "index.html": "https://mrityunjay38.github.io/Ace-Demo/index.html",
     "static/media/search-icon.svg": "https://mrityunjay38.github.io/Ace-Demo/static/media/search-icon.0bc53f0df9853f825ac9c148d28ea7e6.svg",
     "main.ee1235d2.css.map": "https://mrityunjay38.github.io/Ace-Demo/static/css/main.ee1235d2.css.map",
-    "main.60f5cd20.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.60f5cd20.js.map",
+    "main.19de925a.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/main.19de925a.js.map",
     "928.49375e46.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/928.49375e46.chunk.js.map",
     "765.60c7fed7.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/765.60c7fed7.chunk.js.map",
-    "282.5761425a.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.5761425a.chunk.js.map",
-    "11.85278003.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/11.85278003.chunk.js.map",
+    "282.cdd1ce83.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/282.cdd1ce83.chunk.js.map",
+    "11.19cf3d20.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/11.19cf3d20.chunk.js.map",
     "894.1ccbfd76.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/894.1ccbfd76.chunk.js.map",
     "548.7ea0f6b9.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/548.7ea0f6b9.chunk.js.map",
     "33.bee0d5a7.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/33.bee0d5a7.chunk.js.map",
-    "492.b29b5d43.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.b29b5d43.chunk.js.map",
+    "492.6a044b05.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/492.6a044b05.chunk.js.map",
     "848.dd4ca872.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/848.dd4ca872.chunk.js.map",
     "474.cbd6a6f6.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/474.cbd6a6f6.chunk.js.map",
     "93.fe5351ef.chunk.js.map": "https://mrityunjay38.github.io/Ace-Demo/static/js/93.fe5351ef.chunk.js.map",
@@ -67,6 +67,6 @@
   },
   "entrypoints": [
     "static/css/main.ee1235d2.css",
-    "static/js/main.60f5cd20.js"
+    "static/js/main.19de925a.js"
   ]
 }
